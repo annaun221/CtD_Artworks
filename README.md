@@ -29,7 +29,8 @@ This project explores the Art Institute of Chicago’s collection using the open
 │   ├── scriptRand.js
 │   ├── scrSrch.js
 │   └── scrArtists.js
-└── README.md```
+└── README.md
+```
 
 ## API
 This project uses the [Art Institute of Chicago API](https://api.artic.edu/docs/) to fetch artwork and artist data.
