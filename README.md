@@ -16,7 +16,6 @@ This project explores the Art Institute of Chicago’s collection using the open
 ## Project Structure
 
 ```text
-.
 ├── index.html
 ├── randArt.html
 ├── artist.html
