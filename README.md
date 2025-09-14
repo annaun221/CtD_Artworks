@@ -19,14 +19,14 @@ This project explores the Art Institute of Chicago’s collection using open API
 ├── artist.html
 ├── search.html
 ├── css/
-  ├── styles.css
-  ├── styleRand.css
-  ├── stylessearch.css
-  ├── artist.css
+|  ├── styles.css
+|  ├── styleRand.css
+|  ├── stylessearch.css
+|  ├── artist.css
 ├── js/
-  ├── scriptRand.js
-  ├── scrSrch.js
-  ├── scrArtists.js
+|  ├── scriptRand.js
+|  ├── scrSrch.js
+|  ├── scrArtists.js
 ├── README.md
 
 ## API
