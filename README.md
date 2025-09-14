@@ -14,20 +14,21 @@ This project explores the Art Institute of Chicago’s collection using the open
 
 
 ## Project Structure
-|-- index.html
-|-- randArt.html
-|-- artist.html
-|-- search.html
-|-- css/
-|   |-- styles.css
-|   |-- styleRand.css
-|   |-- stylessearch.css
-|   `-- artist.css
-|-- js/
-|   |-- scriptRand.js
-|   |-- scrSrch.js
-|   `-- scrArtists.js
-`-- README.md
+
+├── index.html
+├── randArt.html
+├── artist.html
+├── search.html
+├── css/
+│   ├── styles.css
+│   ├── styleRand.css
+│   ├── stylessearch.css
+│   └── artist.css
+├── js/
+│   ├── scriptRand.js
+│   ├── scrSrch.js
+│   └── scrArtists.js
+└── README.md
 
 ## API
 This project uses the [Art Institute of Chicago API](https://api.artic.edu/docs/) to fetch artwork and artist data.
