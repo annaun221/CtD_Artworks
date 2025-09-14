@@ -10,21 +10,24 @@ This project explores the Art Institute of Chicago’s collection using open API
 - Explore information about the artists behind the artworks  
 - Browse other works by the same artists
 
+## Running the project
+
+
 ## Project Structure
-index.html
-randArt.html
-artist.html
-search.html
-css/
-  styles.css
-  styleRand.css
-  stylessearch.css
-  artist.css
-js/
-  scriptRand.js
-  scrSrch.js
-  scrArtists.js
-README.md
+├── index.html
+├── randArt.html
+├── artist.html
+├── search.html
+├── css/
+  ├── styles.css
+  ├── styleRand.css
+  ├── stylessearch.css
+  ├── artist.css
+├── js/
+  ├── scriptRand.js
+  ├── scrSrch.js
+  ├── scrArtists.js
+├── README.md
 
 ## API
-This project uses the <a href="https://api.artic.edu/docs/" target="_blank">Art Institute of Chicago API</a> to fetch artwork and artist data.
+This project uses the [Art Institute of Chicago API](https://api.artic.edu/docs/) to fetch artwork and artist data.
