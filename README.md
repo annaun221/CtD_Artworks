@@ -3,6 +3,7 @@ Discover artworks and artists from the Art Institute of Chicago collection.
 
 ## Description
 This project explores the Art Institute of Chicago’s collection using the open API. Users can search for artworks by keyword or view random pieces.
+
 To learn more about the artist, you can click on their name from the random artworks page. Also, you can see more of their works(that will be shown in the search window) on their page by clicking "See artworks by this artist" 
 
 ## Features
