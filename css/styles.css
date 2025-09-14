@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(233, 246, 255);
+    margin: 0;
+    font-family: Palatino, URW Palladio L, serif;
+}
+
+/*navigation bar*/
+nav ul{
+    margin:0;
+    padding-left: 0;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(166, 232, 253);
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 1.5rem;
+}
+nav a{
+    text-decoration: none;
+    font-size: 1.3em;
+    color: black;
+    cursor: pointer;
+}
+nav a:hover{
+    font-size: 1.35em;
+}
+
+/*Text*/
+h1{
+    text-align: center;
+    font-style: italic;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+h3{
+    text-align: center;
+    margin: 4% 10%;
+    background-color: rgb(166, 232, 253);
+    padding: 2.5rem 1rem;
+    border-radius: 9%;
+}
+
+/*Buttons*/
+.Buttons{
+    margin-top: 3.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8%;
+}
+.btn{
+    text-decoration: none;
+    background: linear-gradient(135deg, #4391e0 0%, #0055aa 100%);
+    color: white;
+    padding: 0.7rem 1.5rem;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+
+}
+.btn:hover {
+  background: linear-gradient(135deg, #4391e0 100%);
+  transform:scale(1.05);
+}

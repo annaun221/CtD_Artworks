@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search for Artwork</title>
+    <link rel="stylesheet" href="css/stylessearch.css">
+</head>
+
+<body>
+  <!--Navigation bar-->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="randArt.html">Random Artworks</a></li>
+      <li><a href="search.html">Search</a></li>
+    </ul>
+  </nav>
+
+  <h1>Search for Artworks You Want to See!</h1>
+
+  <!--Form to search for the artworks-->
+  <form id="searchForm">
+    <label>
+      Search:
+      <input id="q" type="text" placeholder="e.g. cats" />
+    </label>
+
+    <label>
+      Limit:
+      <input id="limit" type="number" min="1" max="100" value="10" />
+    </label>
+    <button id="searchBtn" type="button">Search</button>
+  </form>
+
+  <div id="status"></div>
+  <div id="results"></div>
+
+  <script src="js/scrSrch.js"> </script>
+</body>
+</html>
