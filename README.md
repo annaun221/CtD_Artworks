@@ -14,6 +14,7 @@ This project explores the Art Institute of Chicago’s collection using open API
 
 
 ## Project Structure
+.
 ├── index.html
 ├── randArt.html
 ├── artist.html
