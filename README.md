@@ -13,7 +13,7 @@ To learn more about the artist, you can click on their name from the random artw
 - Browse other works by the same artists
 
 ## Running the project
-
+]Open project](https://annaun221.github.io/CtD_Artworks/randArt.html) in browser
 
 ## Project Structure
 
